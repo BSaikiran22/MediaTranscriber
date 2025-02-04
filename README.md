@@ -1,6 +1,6 @@
 # Media Transcriber
 
-Media Transcriber is Windows application built with Python that processes audio and video files, transcribes them using the Whisper model, and outputs the transcriptions in a structured format.
+Media Transcriber is Windows Os application built with Python that processes audio and video files, transcribes them using the Whisper model, and outputs the transcriptions in a structured format.
 
 ## Features
 - Transcribes audio and video files using the Whisper model.
@@ -9,7 +9,7 @@ Media Transcriber is Windows application built with Python that processes audio 
 
 ## Prerequisites
 
-Before running the application, ensure that you have the following installed on your macOS system:
+Before running the application, ensure that you have the following installed on your Windows Os system:
 
 - Python 3.12 or later
 - [ffmpeg](https://ffmpeg.org/download.html) for media file conversion
